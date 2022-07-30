@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "errormessage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jeremyabannister/ErrorMessage",
+      "state" : {
+        "revision" : "a0b253ecbfcc8035e88e26f3b4f841ec0fe9a03d",
+        "version" : "0.1.2"
+      }
+    },
+    {
+      "identity" : "expressionergonomics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jeremyabannister/ExpressionErgonomics",
+      "state" : {
+        "revision" : "d551b16edeb6d64a96b797b1c9f698a36e0d98ba",
+        "version" : "0.2.9"
+      }
+    },
+    {
+      "identity" : "propervaluetype",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jeremyabannister/ProperValueType",
+      "state" : {
+        "revision" : "d6c91820e1e10a749e8bbed207a3f1cf5a2e75ab",
+        "version" : "0.1.1"
+      }
+    },
+    {
+      "identity" : "testable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jeremyabannister/Testable",
+      "state" : {
+        "revision" : "5eb6bfd344bbf0fea93cf59027a13dcb52825a47",
+        "version" : "0.1.2"
+      }
+    },
+    {
+      "identity" : "xctesttoolkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jeremyabannister/XCTestToolkit",
+      "state" : {
+        "revision" : "b564a62731a30b434d110b8d43775707a15dd227",
+        "version" : "0.1.3"
+      }
+    }
+  ],
+  "version" : 2
+}
